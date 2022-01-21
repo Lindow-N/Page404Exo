@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'OLRadiant';
+    src: url('OLRadiant-Light.eot');
+    src: url('OLRadiant-Light.eot?#iefix') format('embedded-opentype'),
+        url('OLRadiant-Light.woff2') format('woff2'),
+        url('OLRadiant-Light.woff') format('woff'),
+        url('OLRadiant-Light.svg#OLRadiant-Light') format('svg');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
